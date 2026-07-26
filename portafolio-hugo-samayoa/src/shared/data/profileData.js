@@ -32,9 +32,9 @@ export const PROFILE = {
   },
   // Reemplazar '#' por los enlaces reales cuando estén disponibles.
   redes: {
-    linkedin: '#',
+    linkedin: 'https://www.linkedin.com/in/hugo-benjam%C3%ADn-samayoa-d%C3%ADaz-502649425/',
     computrabajo: '#',
-    github: '#',
+    github: 'https://github.com/hsamayoa-2021462',
   },
   // Ruta donde debe colocarse la foto de perfil (placeholder por ahora).
   photo: '/assets/images/profile/foto-perfil.jpg',
