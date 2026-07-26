@@ -2,16 +2,8 @@ export default function ProjectCard({ project, index }) {
   return (
     <article className="project-card" data-reveal style={{ transitionDelay: `${index * 70}ms` }}>
       <div className="project-card__media">
-        {/*
-          Coloca las capturas del proyecto en:
-          public/assets/images/projects/{project.id}/
-          y reemplaza este bloque por <img src={project.imagenes[0]} alt={project.titulo} />
-        */}
-        <span className="project-card__media-placeholder">
-          Espacio para capturas
-          <small>public/assets/images/projects/{project.id}/</small>
-        </span>
-      </div>
+  <img src={project.imagenes[0]} alt={project.titulo} />
+</div>
 
       <div className="project-card__body">
         <h3 className="project-card__title">{project.titulo}</h3>
