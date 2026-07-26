@@ -6,11 +6,11 @@
 export const PROJECTS_DATA = [
   {
     id: 'proyecto-1',
-    titulo: '[ Nombre del proyecto 1 ]',
-    descripcion: '[ Descripción breve y profesional del proyecto: qué problema resuelve, qué hace y qué lo hace destacable. ]',
-    tecnologias: ['[ Tecnología 1 ]', '[ Tecnología 2 ]', '[ Tecnología 3 ]'],
-    github: '#',
-    demo: '#',
+    titulo: '[ SpeedCam GT ]',
+    descripcion: ' Es un proyecto basado en colocar infracciones a las personas que exceden de velocidad y otras cosas, cuenta con perfil administrador y cliente para poder pagar las infracciones y ver si todo esta al dia o no. ',
+    tecnologias: [' Node.js ', ' React native ', ' MongoDB '],
+    github: 'https://github.com/jregil-2021564/ProyectoFinalCamara.git',
+    demo: 'https://proyecto-final-camara-react-app-pro.vercel.app',
     imagenes: [
       '/assets/images/projects/proyecto-1/captura-1.jpg',
       '/assets/images/projects/proyecto-1/captura-2.jpg',
@@ -18,11 +18,11 @@ export const PROJECTS_DATA = [
   },
   {
     id: 'proyecto-2',
-    titulo: '[ Nombre del proyecto 2 ]',
-    descripcion: '[ Descripción breve y profesional del proyecto. ]',
-    tecnologias: ['[ Tecnología 1 ]', '[ Tecnología 2 ]'],
-    github: '#',
-    demo: '#',
+    titulo: '[ Gestion de Restaurantes ]',
+    descripcion: ' Aplicacion movil y web con interfaz de usuario y administador, donde se puede ver desde una mesa disponuble hasta el restaurante si esta disponible o no, con reservacion, platos y mas.',
+    tecnologias: [' React Native ', ' Postgres ', ' Mongo Db ', ' Docker Desktop ', ' Vercel'],
+    github: 'https://github.com/hsamayoa-2021462/ProyectoGRestaurantes3.git',
+    demo: 'https://proyecto-g-restaurantes3-client-adm.vercel.app/auth',
     imagenes: [
       '/assets/images/projects/proyecto-2/captura-1.jpg',
       '/assets/images/projects/proyecto-2/captura-2.jpg',
@@ -30,11 +30,11 @@ export const PROJECTS_DATA = [
   },
   {
     id: 'proyecto-3',
-    titulo: '[ Nombre del proyecto 3 ]',
-    descripcion: '[ Descripción breve y profesional del proyecto. ]',
-    tecnologias: ['[ Tecnología 1 ]', '[ Tecnología 2 ]'],
-    github: '#',
-    demo: '#',
+    titulo: '[ Sistema Bancario ]',
+    descripcion: ' La plataforma bancaria más segura y eficiente de Guatemala.Con perfil admin y cliente,gestiona tu patrimonio con la confianza de tecnología de nivel mundial, cuenta con transferencias, depositos,estados de cuenta, gestion de cuenta.',
+    tecnologias: [' React Native ', ' Postrgres ', ' MongoDB ', ' Node.js '],
+    github: 'https://github.com/aarocha-2024203/ProyectoBancario.git',
+    demo: 'https://proyecto-bancario.vercel.app/auth/login',
     imagenes: [
       '/assets/images/projects/proyecto-3/captura-1.jpg',
       '/assets/images/projects/proyecto-3/captura-2.jpg',
