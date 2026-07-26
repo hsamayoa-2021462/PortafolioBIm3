@@ -14,9 +14,9 @@ export const FORMACION = [
 // { puesto: 'Practicante de Desarrollo', lugar: 'Nombre de la empresa', periodo: '2025 - 2026' }
 export const EXPERIENCIA = [
   {
-    puesto: '[ Puesto / práctica ]',
-    lugar: '[ Nombre de la empresa o proyecto ]',
-    periodo: '[ Periodo ]',
+    puesto: ' Practicante / práctica ',
+    lugar: ' Banco Industrial ',
+    periodo: ' 17/08/2026-17/10/2026 ', 
   },
 ];
 
