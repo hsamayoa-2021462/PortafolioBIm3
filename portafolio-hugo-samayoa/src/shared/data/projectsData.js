@@ -40,4 +40,16 @@ export const PROJECTS_DATA = [
       '/assets/images/projects/proyecto-3/captura-2.jpg',
     ],
   },
+  {
+    id: 'proyecto-4',
+    titulo: '[ PowerFit Gym ]',
+    descripcion: ' Pagina Web hecha y utilizable para poder hacer gymnasio desde tu casa o cualquier lugar a tu gusto, con variedad de rutinas a tu eleccion.',
+    tecnologias: [' Visual Estudio Code ', ' JavaScript ', ' Netlify '],
+    github: 'https://github.com/aarocha-2024203/ProyectoBancario.git',
+    demo: 'https://hsamayoa2021462.netlify.app/',
+    imagenes: [
+      '/assets/images/projects/proyecto-4/captura-1.jpg',
+      '/assets/images/projects/proyecto-4/captura-2.jpg',
+    ],
+  },
 ];
