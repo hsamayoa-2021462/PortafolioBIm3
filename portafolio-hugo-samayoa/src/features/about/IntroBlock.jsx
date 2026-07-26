@@ -21,12 +21,8 @@ export default function IntroBlock() {
           y descomenta la etiqueta <img> de abajo.
         */}
         <div className="intro__photo-frame">
-          {/* <img src={PROFILE.photo} alt={`Foto de ${PROFILE.nombre}`} /> */}
-          <span className="intro__photo-placeholder">
-            Espacio para foto de perfil
-            <small>public/assets/images/profile/</small>
-          </span>
-        </div>
+  <img src={PROFILE.photo} alt={`Foto de ${PROFILE.nombre}`} />
+</div>
       </div>
     </div>
   );
